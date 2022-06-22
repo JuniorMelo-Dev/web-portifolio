@@ -1,6 +1,7 @@
-# web-portifolio
+# Web-Portfólio
+
 Produção de portifólio web
 
 ## Tarefas
 
-Realização de controle estará no GitHub
+Realização de controle do projeto estará no GitHub.
