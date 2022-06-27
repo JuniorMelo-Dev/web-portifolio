@@ -10,5 +10,5 @@ Realização de controle do projeto estará no GitHub.
 
 :package: nova funcionalidade
 :up: atualização
-:beatle: correção de bug
-:checkered: release
+:beetle: correção de bug
+:checkered_flag: release
