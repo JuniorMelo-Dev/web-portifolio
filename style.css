@@ -308,14 +308,14 @@ header{
 }
 
 .conhecimentos-img-wrapper{
-    grid-column: 7/ 10;
+    grid-column: 6 / 12;
     grid-row: 1 / 6;
-    width: 100%;
+    
 }
 
 .conhecimentos-img-wrapper img{
-    object-fit: cover;
-    width: 360px;
-    height: 450px;
-    padding: .5rem;
+    object-fit: scale-down;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
 }
