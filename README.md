@@ -1,10 +1,10 @@
-# Web-Portfólio
+# Web-Portfólio :mortar_board:
 
-Produção de portfólio web
+Produção de portfólio web :computer:
 
-## Tarefas
+## Tarefas :clipboard:
 
-Realização de controle do projeto estará no GitHub.
+Realização de controle do projeto estará no GitHub. :octocat:
 
 ## Ícones
 
